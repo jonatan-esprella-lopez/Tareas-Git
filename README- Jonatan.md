@@ -1,22 +1,25 @@
 # **APUNTES DE GIT**
 # Primera clase
-![Basic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8Mk7o0LuR8ZbIc040aZSB7Acnn0zYDY-A5tdcwyUMQ&s)  
+![IMG 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8Mk7o0LuR8ZbIc040aZSB7Acnn0zYDY-A5tdcwyUMQ&s)  
 ## ¿Que es un repositorio?
-Es un proyecto de GIT.
+Es un proyecto de GIT, en el que una persona o varias forman parte.
 
 ## git init:
-Inicializar Git en un directorio.
+Inicializa Git en un directorio.
 
 ## git add [Aqui se puede ingresar los archivos a confirmar], "." para subir todo:
+![IMG 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49ae1yOIdmmo1WlNx8Xpkxwwgcfnfcg_6jw&s)  
 Es el comando usado para realizar la confirmación de los archivos que se guardaran en una versión
 
-## Comandos Git
 ## git commit
 Registra un cambio en el repositorio con un mensaje descriptivo.
 
-## git commit <archivo>
-## git commit -m "<descripción>"
-## git commit <archivo> -m "<descripción>"
+### git commit <archivo>
+### git commit -m "<descripción>"
+### git commit <archivo> -m "<descripción>"
+
+
+
 ## git log
 Muestra el historial de cambios en el repositorio.
 
