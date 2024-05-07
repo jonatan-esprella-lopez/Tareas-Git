@@ -1,6 +1,6 @@
 # **APUNTES DE GIT**
 # Primera clase
-![Basic](https://www.google.com/imgres?q=github&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1125%2F0*N1fmHtI8gmkH_2Vu.png&imgrefurl=https%3A%2F%2Fthiago-marsal.medium.com%2Fgithub-a-beginners-introduction-00046817208a&docid=nyDqgm3EfOFlhM&tbnid=1u5y9vZ_6x64eM&vet=12ahUKEwjmlKTzxvyFAxVyA7kGHVLaAMoQM3oECGMQAA..i&w=1125&h=417&hcb=2&ved=2ahUKEwjmlKTzxvyFAxVyA7kGHVLaAMoQM3oECGMQAA)  
+![Basic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8Mk7o0LuR8ZbIc040aZSB7Acnn0zYDY-A5tdcwyUMQ&s)  
 ## ¿Que es un repositorio?
 Es un proyecto de GIT.
 
