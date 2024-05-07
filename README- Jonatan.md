@@ -4,10 +4,10 @@
 ## ¿Que es un repositorio?
 Es un proyecto de GIT, en el que una persona o varias forman parte.
 
-## **GIT INIT**:
+## **GIT INIT**
 Inicializa Git en un directorio.
 
-## **GIT ADD** [Aqui se puede ingresar los archivos a confirmar], "." para subir todo:
+## **GIT ADD** [Aqui se puede ingresar los archivos a confirmar], "." para subir todo
 ![IMG 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49ae1yOIdmmo1WlNx8Xpkxwwgcfnfcg_6jw&s)  
 Es el comando usado para realizar la confirmación de los archivos que se guardaran en una versión
 
@@ -20,13 +20,13 @@ Registra un cambio en el repositorio con un mensaje descriptivo.
 
 
 
-## git log
-Muestra el historial de cambios en el repositorio.
+## **GIT LOG**
+Muestra el historial de cambios en el repositorio con detalles como el **autor** y la **fecha**.
+![IMG 3](https://salferrarello.com/wp-content/uploads/2016/10/default-git-log-output.jpg)  
 
-## git log --oneline: Muestra los cambios de forma resumida.
-## git log --graph: Visualiza el historial de manera gráfica.
-README
-El README es esencial para presentar un proyecto, generalmente escrito en Markdown. Aquí tienes un Tutorial Markdown.
+**git log --oneline: Muestra los cambios de forma resumida.**0
+**git log --graph: Visualiza el historial de manera gráfica.**
+
 
 # Segunda Clase
 ## git branch
